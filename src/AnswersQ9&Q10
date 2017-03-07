@@ -1,0 +1,26 @@
+Question9
+
+ArrayList
+
+object.get(index);
+object.remove(element);
+
+
+
+LinkedList
+
+
+Object getFirst();
+Object getLast();
+Object removeFirst();
+Object removeLast();
+
+
+Question10
+
+c. public interface SomeInterface{
+		public abstract void dosomething();
+
+		public default void test(){}
+  }
+
